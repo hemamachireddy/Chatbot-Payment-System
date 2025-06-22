@@ -1,9 +1,9 @@
 # Chatbot-Payment-System
-HOW TO RUN:
+How to run:
 
 FRONTEND EXECUTION:
-STEP 1: OPEN VISUAL STUDIO CODE AND OPEN FOLDER FRONTEND
-STEP 2: OPEN THE TERMINAL AND GIVE COMMAND AS "npm start"
+STEP 1: Open Vs code and open frontend folder
+STEP 2: Open the terminal in vs code and run the command as "npm start"
 
 ### `npm start`
 
@@ -30,7 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 BACKEND EXECUTION:
 
-STEP 1: OPEN INTELLIJ COMMUNITY EDITION AND OPEN BACKEND FOLDER
-STEP 2: RUN THE APPLICATION 
+STEP 1: Open Intellij Community Edition and open backend folder from your computer
+STEP 2: Run the Application
 
-THEN AUTOMATICALLY THE PAGE WILL OPEN WITH LOGIN PAGE
+Then automatically will be displayed with login page
